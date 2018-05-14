@@ -6,7 +6,7 @@ permalink: /about/
 
 # About {{ site.title }}
 
-Digital collection site built via metadata and Jekyll.
+This is my first digital site that I created using the combined resources of the symposium team after we learned how to scan and edit our documents.
 
 ### Technical
 
