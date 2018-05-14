@@ -23,7 +23,7 @@ collection-date: May 2018
 # url is your gh-pages base, username.github.io
 url: sunfire60.github.io
 # baseurl is your github repository's name prefixed with a /
-baseurl: /sunfire60/Digital-practice-collection
+baseurl: /Digital-practice-collection
 # repository is the github repository's full url
 repository: https://github.com/sunfire60/Digital-practice-collection
 
